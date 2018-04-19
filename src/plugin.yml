@@ -1,0 +1,8 @@
+name: PowerGranter
+description: A plugin that allows players to be granted faction power randomly when they kill mobs at high risk. 
+
+version: 1.0
+author: NathanApes
+
+main: nathan.apes.pg.main.Main
+    
